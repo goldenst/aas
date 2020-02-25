@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://jwelch:Wrecker5150@cluster0-labv4.mongodb.net/test?retryWrites=true&w=majority",
+"jwtSecret": "aassecrettoken"
+}
